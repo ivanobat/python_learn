@@ -1,0 +1,11 @@
+[
+  "test_exercises.py::test_are_all_adults",
+  "test_exercises.py::test_count_nones",
+  "test_exercises.py::test_every",
+  "test_exercises.py::test_factorial",
+  "test_exercises.py::test_get_only_adults",
+  "test_exercises.py::test_longest_word",
+  "test_exercises.py::test_n_highest_number",
+  "test_exercises.py::test_only_adults",
+  "test_exercises.py::test_second_highest_number"
+]

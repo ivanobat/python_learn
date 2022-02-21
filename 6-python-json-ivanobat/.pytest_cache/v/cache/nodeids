@@ -1,0 +1,5 @@
+[
+  "test_exercises.py::test_get_hashtag_counts",
+  "test_exercises.py::test_get_language_counts",
+  "test_exercises.py::test_load_tweets"
+]

@@ -1,0 +1,10 @@
+[
+  "test_exercises.py::test_decode_raises_on_bad_input",
+  "test_exercises.py::test_encode_raises_on_bad_input",
+  "test_exercises.py::test_encoder_constructor",
+  "test_exercises.py::test_encoder_encode_decode",
+  "test_exercises.py::test_encoder_export_import_mapping",
+  "test_exercises.py::test_patient_add_test_exists",
+  "test_exercises.py::test_patient_constructor",
+  "test_exercises.py::test_patient_has_covid"
+]

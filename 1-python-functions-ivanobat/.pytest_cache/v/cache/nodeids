@@ -1,0 +1,6 @@
+[
+  "test_exercises.py::test_greet_person",
+  "test_exercises.py::test_safe_subtract",
+  "test_exercises.py::test_subtract",
+  "test_exercises.py::test_triple"
+]

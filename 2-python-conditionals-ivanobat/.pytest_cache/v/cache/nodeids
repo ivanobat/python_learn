@@ -1,0 +1,9 @@
+[
+  "test_exercises.py::test_car_at_light",
+  "test_exercises.py::test_driver_seat",
+  "test_exercises.py::test_equality",
+  "test_exercises.py::test_is_cold",
+  "test_exercises.py::test_is_even",
+  "test_exercises.py::test_should_work",
+  "test_exercises.py::test_wear_sweater"
+]

@@ -1,0 +1,13 @@
+[
+  "test_exercises.py::test_best_scores",
+  "test_exercises.py::test_dictionary_maker",
+  "test_exercises.py::test_has_experience_as",
+  "test_exercises.py::test_job_counts",
+  "test_exercises.py::test_most_popular_job",
+  "test_exercises.py::test_top_player",
+  "test_exercises.py::test_top_player_when_none",
+  "test_exercises.py::test_top_score",
+  "test_exercises.py::test_user_add_and_get_multiple_scores",
+  "test_exercises.py::test_user_add_score_raises",
+  "test_exercises.py::test_user_class_has_name"
+]
